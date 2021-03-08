@@ -5,7 +5,7 @@
   Description:  Class that converts expressions from prefix <--> postfix.
  */
 
-package cmsc350.project1;
+package projects.cmsc350;
 
 import java.util.ArrayList;
 import java.util.EmptyStackException;

@@ -5,7 +5,7 @@
   Description:  Main file that constructs and displays GUI.
  */
 
-package cmsc350.project1;
+package projects.cmsc350;
 
 import javax.swing.*;
 import java.awt.*;

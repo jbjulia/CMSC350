@@ -1,4 +1,4 @@
-package cmsc350.project1;
+package projects.cmsc350;
 
 class InvalidCharacter extends Exception {
 
